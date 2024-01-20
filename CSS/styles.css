@@ -1,0 +1,172 @@
+h1{
+  margin-bottom: 0;
+  color: #176B87;
+  margin-top: -500px;
+  font-size: 625%;
+  font-style: italic;
+  font-family: 'Sacramento', cursive;
+}
+p{
+margin-top: -20px;
+  color: #176B87;
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  margin : 0;
+  padding:0;
+  text-align: center;
+  font-family: "Arial Narrow",Arial,sans-serif;
+  background-color:#A1EEBD; /*Light green background #C1F2B0;*/
+}
+
+.firstdiv{
+  background-color: #A1EEBD;
+  margin : 0;
+  position: relative;
+}
+.cloud1{
+margin-left: 70%;
+margin-top: 10%;
+position: relative;
+}
+
+.bird2{
+  margin-right: 400px;
+  position: relative;
+  margin-bottom: -100px;
+}
+
+.bird1{
+  margin-right:  600px;
+  position: relative;
+
+}
+
+.cloud2{
+  margin-right: 70%;
+  margin-bottom:  20%;
+  position: relative;
+}
+
+.cloud3{
+  margin-left: 70%;
+  position: relative;
+  float: left;
+}
+.mountain{
+position: relative;
+margin-top: -10px;
+margin-left: 20px;
+margin-bottom: 100px;
+
+}
+
+.profile{
+  border-radius: 100%;
+  margin-left: 20%;
+  float: left;
+  margin-top: 30px;
+
+
+}
+
+.Hello{
+  margin-left: 570px;
+  font-size: 30px;
+  font-family: 'Tangerine', cursive;
+  text-align: left;
+  margin-bottom: 200px;
+  p{
+    font-size: 25px;
+  }
+   }
+
+
+.skills
+{
+  margin-left: -25px;
+  font-size: 30px;
+
+  font-family: 'Tangerine', cursive;
+  margin-bottom: 80px;
+}
+
+
+
+
+.skill1
+{
+  margin-left: 200px;
+  font-size: 28px;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+  p{
+    margin-top: -90px;
+    text-align: left;
+    margin-left: 500px;
+    margin-bottom: -80px;
+    font-size: 25px;
+  }
+}
+
+.java{
+    margin-top: -80px;
+    margin-left: 900px;
+    float: center;
+    margin-bottom: 50px;
+
+
+}
+
+
+
+.skill2
+{
+
+  margin-left:-450px;
+  font-size: 28px;
+  font-family: 'Tangerine', cursive;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  p{
+    text-align: left;
+    margin-left: 800px;
+    font-size: 25px;
+    margin-top: -110px;
+  }
+
+}
+.web{
+  margin-top: -80px;
+  margin-right: 550px;
+    float: center;
+
+    }
+
+
+
+.contact-me
+{
+  margin-left:0;
+  font-size: 28px;
+  font-family: 'Tangerine', cursive;
+
+p{
+  margin-top: 50px;
+  margin-bottom: 80px;
+  text-align: center;
+  font-size: 25px;
+}
+}
+
+.bottom-container{
+margin-left: 30px;
+margin-top: 30px;
+}
+
+hr{
+  border-color: black;
+  border-style: dotted;
+  width:30%;
+}
